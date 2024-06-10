@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Charhate</h1>
 <h3 align="center">I am a curious coder.</h3>
 
+<img align="right" alt="Coding" width="350" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg">
 
 - 🔭 I’m currently working on **AI Desktop Assitant**
 
