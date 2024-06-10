@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg">
 
+- 📙 I'm currently persuing Computer Engineering Degree from PCCoE, Pune.
+
 - 🔭 I’m currently working on **AI Desktop Assitant**
 
 - 🌱 I’m currently learning **JavaScript**
