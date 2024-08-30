@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Desktop Assitant**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **rudrakshcharhate7@gmail.com**
 
