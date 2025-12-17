@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamRUDRAKSH&show_icons=true&locale=en&layout=compact" alt="iamRUDRAKSH" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamRUDRAKSH&show_icons=true&locale=en" alt="iamRUDRAKSH" /></p>
+
+<img src="https://raw.githubusercontent.com/iamRUDRAKSH/iamRUDRAKSH/output/snake.svg" alt="Snake animation" />
